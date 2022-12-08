@@ -1,0 +1,24 @@
+{
+    "BASE_PATH": "/N/slate/soodn/",
+    "DATA_PATH": "kaggle_data_package/kaggle_data_multiftu/data/",
+    "METADATA": "metadata.csv",
+    "MODEL_PATH":"models/KidneyOG/Tom",
+
+    "split_seed_list":[0],
+    "FOLD_LIST":[0], 
+    
+    "model_name":"seresnext101",
+    "num_classes":1,
+    "resolution":1024, 
+    "input_resolution":512,
+    "deepsupervision": false,
+    "clfhead":false,
+    "clf_threshold":0.5,
+    "small_mask_threshold":0,
+    "mask_threshold":0.5,
+    "pad_size":256,
+    "tta":3,
+    "test_batch_size":12,
+    "FP16":false,
+    "num_workers":4
+}

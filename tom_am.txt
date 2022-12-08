@@ -1,0 +1,3 @@
+Loading weights from /N/slate/soodn/models/KidneyOG/Tom/model_seed0_fold0_bestscore.pth
+881
+/N/slate/soodn/kaggle_data_package/kaggle_data_multiftu/data/images/largeintestine/A001-C-224_patch_1_0_largeintestine.tif
